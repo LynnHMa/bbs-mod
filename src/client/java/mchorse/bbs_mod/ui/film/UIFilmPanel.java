@@ -456,7 +456,7 @@ public class UIFilmPanel extends UIDataDashboardPanel<Film> implements IFlightSu
 
         if (this.isFlying())
         {
-            this.toggleFlight();
+            //this.toggleFlight();
         }
     }
 
